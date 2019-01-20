@@ -22,7 +22,7 @@ There are several ones included in this small project:
 ## How can I include it in my Angular project?
 
 Simply copy and paste the source and test files in your desired folders, that is all.
-The tests files have been development using jasmine functionality so, include them in an existing Angular project should not be a problem.
+The tests files have been development using **Jasmine** functionality so, include them in an existing Angular project should not be a problem.
 
 ## Dependencies configuration
 
