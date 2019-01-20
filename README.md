@@ -28,7 +28,7 @@ The tests files have been development using jasmine functionality so, include th
 
 To allow us to use it in an existing Angular project, this one has not been included as an external *npm* package, developing the tests
 using **Jasmine** instead of other external package. Then we will see the list of dependencies used to develop it. Taking into account
-this functionality is included in a "bigger base project", most of them are not really "a must" only **Typescript** version could be
+this functionality is included in a "bigger base project", most of them are not really "a must", only **Typescript** version could be
 important. 
 
 ```json
