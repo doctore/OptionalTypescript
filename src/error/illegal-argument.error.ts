@@ -1,5 +1,5 @@
 /**
- * Thrown to indicate that a method has been passed an illegal or inappropriate argument
+ * Thrown to indicate that a method has received an illegal or inappropriate argument.
  */
 export class IllegalArgumentError extends Error {
 
