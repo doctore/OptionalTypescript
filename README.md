@@ -1,11 +1,11 @@
 # Java Optional in Typescript
 
-- [Why this project was created?](#why-this-project-was-created)
+- [Why was this project created?](#why-was-this-project-created)
 - [Classes included in this project](#classes-included-in-this-project)
 - [How can I include it in my Angular project?](#how-can-I-include-it-in-my-Angular-project)
 - [Dependencies configuration](#dependencies-configuration)
 
-## Why this project was created?
+## Why was this project created?
 
 With this functionality we will be able to develop in Typescript using the "null safe" way provided by Java. Avoiding to be worried about if the object we are using is **null**
 and/or **undefined**.
