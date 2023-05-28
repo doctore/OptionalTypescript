@@ -1,9 +1,15 @@
 # Java Optional in Typescript
 
+- [Deprecated project](#deprecated-project)
 - [Why was this project created?](#why-was-this-project-created)
 - [Classes included in this project](#classes-included-in-this-project)
 - [How can I include it in my Angular project?](#how-can-I-include-it-in-my-Angular-project)
 - [Dependencies configuration](#dependencies-configuration)
+
+## Deprecated project
+This projects has been deprecated, use [Optional](https://github.com/doctore/AngularUtil/blob/master/src/app/core/types/optional.type.ts).
+<br><br>
+
 
 ## Why was this project created?
 
