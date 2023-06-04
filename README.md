@@ -7,7 +7,7 @@
 - [Dependencies configuration](#dependencies-configuration)
 
 ## Deprecated project
-This projects has been deprecated, use [Optional](https://github.com/doctore/AngularUtil/blob/master/src/app/core/types/optional.type.ts).
+This project has been deprecated, use [Optional](https://github.com/doctore/AngularUtil/blob/master/src/app/core/types/optional.type.ts).
 <br><br>
 
 
